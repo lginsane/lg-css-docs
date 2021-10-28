@@ -1,4 +1,4 @@
-import{_ as o,c,o as e,a as r}from"./app.312f2705.js";const m='{"title":"\u989C\u8272color","description":"","frontmatter":{},"relativePath":"basics/color.md","lastUpdated":1635414652718}',s={},t=r(`<h1 id="\u989C\u8272color" tabindex="-1">\u989C\u8272color <a class="header-anchor" href="#\u989C\u8272color" aria-hidden="true">#</a></h1><p>\u6309\u9700\u4F7F\u7528</p><div class="language-"><pre><code>import &#39;lg-css/dist/color/index.css&#39;
+import{_ as o,c,o as e,a as r}from"./app.7c8ac370.js";const m='{"title":"\u989C\u8272color","description":"","frontmatter":{},"relativePath":"basics/color.md","lastUpdated":1635414652718}',s={},t=r(`<h1 id="\u989C\u8272color" tabindex="-1">\u989C\u8272color <a class="header-anchor" href="#\u989C\u8272color" aria-hidden="true">#</a></h1><p>\u6309\u9700\u4F7F\u7528</p><div class="language-"><pre><code>import &#39;lg-css/dist/color/index.css&#39;
 or
 import &#39;lg-css/color/index&#39;
 </code></pre></div><p>\u81EA\u5B9A\u4E49\u914D\u7F6E</p><div class="language-\u81EA\u5B9A\u4E49\u914D\u7F6E"><pre><code>@import &quot;lg-css/src/mixin.scss&quot;;

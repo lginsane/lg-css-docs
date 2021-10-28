@@ -1,4 +1,4 @@
-import{_ as e,c,o,a as d}from"./app.312f2705.js";const _='{"title":"\u5927\u5C0Fsize","description":"","frontmatter":{},"relativePath":"basics/size.md","lastUpdated":1635414647438}',i={},t=d(`<h1 id="\u5927\u5C0Fsize" tabindex="-1">\u5927\u5C0Fsize <a class="header-anchor" href="#\u5927\u5C0Fsize" aria-hidden="true">#</a></h1><p>\u6309\u9700\u4F7F\u7528</p><div class="language-\u6309\u9700\u4F7F\u7528"><pre><code>import &#39;lg-css/dist/size/index.css&#39;
+import{_ as e,c,o,a as d}from"./app.7c8ac370.js";const _='{"title":"\u5927\u5C0Fsize","description":"","frontmatter":{},"relativePath":"basics/size.md","lastUpdated":1635414647438}',i={},t=d(`<h1 id="\u5927\u5C0Fsize" tabindex="-1">\u5927\u5C0Fsize <a class="header-anchor" href="#\u5927\u5C0Fsize" aria-hidden="true">#</a></h1><p>\u6309\u9700\u4F7F\u7528</p><div class="language-\u6309\u9700\u4F7F\u7528"><pre><code>import &#39;lg-css/dist/size/index.css&#39;
 or
 import &#39;lg-css/size/index&#39;
 </code></pre></div><p>\u81EA\u5B9A\u4E49\u914D\u7F6E</p><div class="language-\u81EA\u5B9A\u4E49\u914D\u7F6E"><pre><code>@import &quot;lg-css/src/mixin.scss&quot;;
